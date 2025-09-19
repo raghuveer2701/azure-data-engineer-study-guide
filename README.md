@@ -1,8 +1,11 @@
+## **Complete Azure Data Engineer Study Guide (100% FREE)**
+
+
 ## **📱 Connect with the author:  Raghuveer Nandakumar**
 
 
 
-
+'''
 
 $$$$$$$\                      $$\                                                                $$\   $$\                           $$\           $$\                                                   
 $$  __$$\                     $$ |                                                               $$$\  $$ |                          $$ |          $$ |                                                  
@@ -17,7 +20,7 @@ $$ |  $$ |\$$$$$$$ |\$$$$$$$ |$$ |  $$ |\$$$$$$  |   \$  /   \$$$$$$$\ \$$$$$$$\
                      \______/                                                                                                                                                                            
 
 
-
+'''
 
 If you found this free study guide valuable, please **subscribe** or **follow** across my social channels to stay updated on future guides, resources, and professional tips. Your support is greatly appreciated!
 
