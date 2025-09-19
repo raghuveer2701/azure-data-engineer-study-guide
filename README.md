@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### **Complete Azure Data Engineer Study Guide (100% FREE)**
 
 ## **📱 Connect with Raghuveer Nandakumar**
